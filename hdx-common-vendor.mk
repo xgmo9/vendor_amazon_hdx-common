@@ -44,7 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/hdx-common/proprietary/vendor/bin/mm-qcamera-app:system/vendor/bin/mm-qcamera-app \
     vendor/amazon/hdx-common/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/amazon/hdx-common/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
-    vendor/amazon/hdx-common/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/amazon/hdx-common/proprietary/vendor/bin/nl_listener:system/vendor/bin/nl_listener \
     vendor/amazon/hdx-common/proprietary/vendor/bin/port-bridge:system/vendor/bin/port-bridge \
     vendor/amazon/hdx-common/proprietary/vendor/bin/ptt_socket_app:system/vendor/bin/ptt_socket_app \
